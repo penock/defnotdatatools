@@ -1,9 +1,9 @@
 
 defnotdatatools package
 ================================================================================
-Definitely Not Data Tools are rough but sometimes-nifty Python data (and other) utilities. The name is a play on my music persona, https://facebook.com/defnotdrphil ... in alpha, not supported, but feel free to ask me about anything: contact me via penock.com or enockphd.com.
+Definitely Not Data Tools are rough but sometimes-nifty Python data (and other) utilities. The name is a play on my music persona, https://facebook.com/defnotdrphil 
 
-This package is in alpha stage, not supported, and all aspects of it could change. But feel free to ask me about anything here--contact me via https://penock.com or https://linkedin.com/in/enockphd
+This package is in alpha stage, thus not supported, and all aspects of it could change. But feel free to ask me about anything here--contact me via https://penock.com or https://linkedin.com/in/enockphd
 
 
 
